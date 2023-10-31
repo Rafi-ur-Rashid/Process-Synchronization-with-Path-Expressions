@@ -1,3 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wg12XSkb)
-# CSE 511 Project 1
-Please refer to the Canvas document.
+
+# Process-Synchronization-with-Path-Expressions
+The main goal of this project is to implement diverse synchronization specifications according to the "path expressions" construct.  
+More details and examples can be found in `Report.pdf`
